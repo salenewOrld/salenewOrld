@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">A passionate graduate data science student from Thailand 🇹🇭.</h3>
 
-- 🔭 I’m currently working on <a href='https://www.properhouse.co'/>, <a href='https://otudy.co'/>
+- 🔭 I’m currently working on <a href='https://www.properhouse.co'>ProperHouse</a>, <a href='https://otudy.co'>Otudy</a>
 
 - 🌱 I’m currently learning **PyTorch, MLX**
 
