@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">A passionate graduate data science student from Thailand 🇹🇭.</h3>
 
-- 🔭 I’m currently working on <a href='https://www.properhouse.co'>ProperHouse</a>, <a href='https://otudy.co'>Otudy</a>
+- 🔭 I’m currently working on <a href='https://www.properhouse.co'>ProperHouse</a>, <a href='https://otudy.co'>Otudy</a> projects.
 
 - 🌱 I’m currently learning **PyTorch, MLX**
 
-- 👨‍💻 All of my projects are available at <a href='portfolio.salene.me'/>, <a href='github.com/salene96x'/>
+- 👨‍💻 All of my projects are available at <a href='portfolio.salene.me'>Website</a>, <a href='github.com/salene96x'>GitHub</a>.
 
 - 📫 How to reach me **krittinaphat.sris@gmail.com**
 
