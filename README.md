@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">A passionate graduate data science student from Thailand 🇹🇭.</h3>
 
-- 🔭 I’m currently working on [ProperHouse, Otudy startup projects](properhouse.co, otudy.co)
+- 🔭 I’m currently working on [ProperHouse, Otudy startup projects](https://www.properhouse.co, https://www.otudy.co)
 
 - 🌱 I’m currently learning **PyTorch, MLX**
 
